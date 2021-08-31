@@ -1950,7 +1950,7 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #e27689;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1968,7 +1968,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #dd5c74;
 		}
 
 		input[type="button"]:active,
@@ -2266,20 +2266,21 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #212528;
 				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #d1d4d4;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #cad1d1;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #212528;
+				
 			}
 
 /* Wide */
